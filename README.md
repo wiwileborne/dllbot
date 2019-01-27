@@ -1,6 +1,7 @@
 # DLL Bot
 #### Bot du serveur [Problème de DLL](https://discord.gg/JTTbgf9).
 
+💡 Codé par @kodle avec l'énorme aide de @wiwileborne
 💡 "Ping" apparait toutes les 5 minutes pour garder l'application en ligne. <br /> 
 
 ⭐ Si vous changez le code server.js, le bot sera relancé et appliquera les changements (et les bugs s'il y en a !) <br />
